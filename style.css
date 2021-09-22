@@ -1,0 +1,36 @@
+#farmer {
+border-radius: 10%;
+height: 300px;
+width:400px;
+}
+#body {
+background-color: greenyellow;
+}
+.body {
+    background-color: greenyellow;
+    }
+hr {
+width: 650px;
+background-color: black;
+height: 3px;
+}
+ul {
+z-index: 10;
+display: inline;
+top: 0;
+position: sticky;
+list-style: none;
+}
+li {
+background-color: cornflowerblue;
+float: left;
+padding-left: 5px;
+padding-right: 5px;
+}
+li:hover {
+ font-size: 15px; 
+ background-color: skyblue;  
+}
+iframe {
+border-radius: 10%;
+}
